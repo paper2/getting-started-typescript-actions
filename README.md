@@ -7,4 +7,4 @@
 [![Coverage](./badges/coverage.svg)](./badges/coverage.svg)
 
 This Repository is Getting Started
-[actions/typescript-action: Create a TypeScript Action with tests, linting, workflow, publishing, and versioning](https://github.com/actions/typescript-action).
+[actions/typescript-action](https://github.com/actions/typescript-action).
